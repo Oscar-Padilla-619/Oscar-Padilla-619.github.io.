@@ -2,7 +2,7 @@
 I am a student studying Geology at Riverside City College as a Associates for Transfer. I am taking a GIS class to gain map creation experience as I want to become either a soil technician or survey technician.   
 ---
 ## Kilauea Volcanic Eruption of 2018
-Short video of the map layers used to create a comparison of events during the Kilauea Volcanic Eruption in 2018 (images/Kilauea Eruption Event 2018_OP_vid.mp4)
+Short video of the map layers used to create a comparison of events during the Kilauea Volcanic Eruption in 2018 (/images/Kilauea Eruption Event 2018_OP_vid.mp4)
 
 *Interactive version, live as of October 2026: https://storymaps.arcgis.com/stories/71f2071d61f544c4a08dc0dc31eaaf54*
 
