@@ -19,7 +19,7 @@ I am a student studying Geology at Riverside City College as a Associates for Tr
 ---
 
 ## Covid-19 rates and cases numbers in New York City
-! [A short video of the map to show comparison of Covid-19 rates to case counts in Ney York City](images/DiseaseMapping_OP_vid (2).mp4)
+! [A short video of the map to show comparison of Covid-19 rates to case counts in Ney York City](images/DiseaseMapping_OP_vid.mp4)
 
 *Interactive version, live as of October 2026: [[SwipeApp](https://rccgis24.maps.arcgis.com/apps/instant/basic/index.html?appid=044447231e064d7eab122766ab42567e)]*
 
