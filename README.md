@@ -2,7 +2,7 @@
 I am a student studying Geology at Riverside City College as a Associates for Transfer. I am taking a GIS class to gain map creation experience as I want to become either a soil technician or survey technician.   
 ---
 ## Kilauea Volcanic Eruption of 2018
-![Short video of the map layers used to create a comparison of events during the Kilauea Volcanic Eruption in 2018](images/yourfile.png)
+![Short video of the map layers used to create a comparison of events during the Kilauea Volcanic Eruption in 2018](images/images/Kilauea_Eruption_Event_2018_OP_vid.mp4)
 
 *Interactive version, live as of October 2026: [[StroyApp](https://storymaps.arcgis.com/stories/71f2071d61f544c4a08dc0dc31eaaf54)]*
 
@@ -19,7 +19,7 @@ I am a student studying Geology at Riverside City College as a Associates for Tr
 ---
 
 ## Covid-19 rates and cases numbers in New York City
-! [A short video of the map to show comparison of Covid-19 rates to case counts in Ney York City](images/DiseaseMapping_OP_vid.mp4)
+[A short video of the map to show comparison of Covid-19 rates to case counts in Ney York City](images/DiseaseMapping_OP_vid.mp4)
 
 *Interactive version, live as of October 2026: [[SwipeApp](https://rccgis24.maps.arcgis.com/apps/instant/basic/index.html?appid=044447231e064d7eab122766ab42567e)]*
 
