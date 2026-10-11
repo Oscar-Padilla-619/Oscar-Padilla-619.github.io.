@@ -35,8 +35,8 @@ I am a student studying Geology at Riverside City College as a Associates for Tr
 
 ---
 ## Data sources
-- ISO 19139 Geographic Information - Metadata - Implementation Specification, spatial-admin_ucsb, 2024, https://tiledimageservices1.arcgis.com/4TXrdeWh0RyCqPgB/arcgis/rest/services/LS_8_2_18/ImageServer
-- COVID19_ZCTA, GGA_Admin, 2024, https://services3.arcgis.com/HHsRcAgIU6SqBiQd/arcgis/rest/services/COVID19_ZCTA/FeatureServer
+- ISO 19139 Geographic Information - Metadata - Implementation Specification, spatial-admin_ucsb, 2024, [URL](https://tiledimageservices1.arcgis.com/4TXrdeWh0RyCqPgB/arcgis/rest/services/LS_8_2_18/ImageServer)
+- COVID19_ZCTA, GGA_Admin, 2024, [URL](https://services3.arcgis.com/HHsRcAgIU6SqBiQd/arcgis/rest/services/COVID19_ZCTA/FeatureServer)
   
 ## Where this is going
 What I plan to add to this portfolio by the end of the term is more in-depth information and discussion of the maps that I have presented and future maps that would be added. I would want to learn more on how to better present my webpage to be more streamline and personalized to my liking as it would better reflect who I am as a person, student and worker. I want it this portfolio to be something that I am proud to show off when I am apply to future careers, showing that I have worked with the software before, or something similar. 
